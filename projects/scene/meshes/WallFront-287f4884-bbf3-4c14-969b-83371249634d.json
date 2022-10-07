@@ -1,0 +1,246 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "WallFront",
+			"id": "287f4884-bbf3-4c14-969b-83371249634d",
+			"uniqueId": 10,
+			"type": "Mesh",
+			"tags": "modified",
+			"position": [
+				-6.619623976074124,
+				48.4098957719148,
+				496.35306526573
+			],
+			"rotationQuaternion": [
+				-3.6939621003811747e-10,
+				-0.000002028083669527611,
+				-0.0000041736460370160786,
+				0.9999999999892338
+			],
+			"scaling": [
+				1000,
+				100,
+				10
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryUniqueId": 26,
+			"geometryId": "7c781f49-15e0-439d-adbf-6668dd24c5e9",
+			"subMeshes": null,
+			"materialUniqueId": 105,
+			"materialId": "c6b937fd-8d4f-4b1a-a395-2c8d7901a322",
+			"metadata": {
+				"isPickable": true,
+				"script": {
+					"name": "None",
+					"properties": {
+						"_impulseForce": {
+							"type": "number",
+							"value": 10
+						}
+					}
+				},
+				"renderingGroupId": 0,
+				"doNotExport": false
+			},
+			"instances": [
+				{
+					"name": "WallRight",
+					"id": "89d8f4bb-4903-403a-b51f-1b8cf13b3afb",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						498.3979181158935,
+						48.553234167260264,
+						200
+					],
+					"scaling": [
+						600,
+						100,
+						10
+					],
+					"rotationQuaternion": [
+						0.000002947334612333265,
+						0.7062386498164017,
+						-0.000002955087149594052,
+						0.7079738480255376
+					],
+					"metadata": {
+						"isPickable": true,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0,
+						"doNotExport": false
+					},
+					"animations": [],
+					"ranges": [],
+					"parentId": null
+				},
+				{
+					"name": "WallBack",
+					"id": "624268e1-5ae4-45d3-b295-7b06baa4ed0e",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						0.6889544137334247,
+						48.21693420410156,
+						-100
+					],
+					"scaling": [
+						1000,
+						100,
+						10
+					],
+					"rotationQuaternion": [
+						-3.2623536828689356e-9,
+						-0.0006951783905338475,
+						-0.000004173644883202713,
+						0.9999997583547638
+					],
+					"metadata": {
+						"isPickable": true,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0,
+						"doNotExport": false
+					},
+					"animations": [],
+					"ranges": [],
+					"parentId": null
+				},
+				{
+					"name": "WallLeft",
+					"id": "f79af5ff-8fab-4f08-8110-0970199ad19e",
+					"isEnabled": true,
+					"isVisible": true,
+					"isPickable": true,
+					"checkCollisions": true,
+					"position": [
+						-498.54078024915185,
+						48.68733047106463,
+						200
+					],
+					"scaling": [
+						600,
+						100,
+						10
+					],
+					"rotationQuaternion": [
+						0.0000029420835137821303,
+						0.7049806019727184,
+						-0.0000029603151819839988,
+						0.7092265863775584
+					],
+					"metadata": {
+						"isPickable": true,
+						"script": {
+							"name": "None"
+						},
+						"renderingGroupId": 0,
+						"doNotExport": false
+					},
+					"animations": [],
+					"ranges": [],
+					"parentId": null
+				}
+			],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"parentId": null,
+			"delayLoadingFile": "geometries/7c781f49-15e0-439d-adbf-6668dd24c5e9.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				0.5,
+				0.5,
+				0.5
+			],
+			"boundingBoxMinimum": [
+				-0.5,
+				-0.5,
+				-0.5
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 72,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 72,
+					"stride": 3,
+					"offset": 288,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 48,
+					"stride": 2,
+					"offset": 576,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 36,
+					"stride": 1,
+					"offset": 768,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 912,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}
